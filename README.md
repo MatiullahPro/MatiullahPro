@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Matiullah 👋
 
-<!--
-**MatiullahPro/MatiullahPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Web Developer specializing in building scalable and secure web applications.
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- Build SaaS platforms & MVPs
+- Develop REST APIs & backend systems
+- Create admin dashboards & business tools
+- Integrate third-party APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Backend: Laravel, PHP, Node.js, Python
+- Frontend: React.js, Vue.js, Inertia.js, Livewire
+- Database: MySQL
+- Tools: Git, REST APIs
+
+## 📌 Featured Projects
+🔹 Laravel SaaS Starter Kit  
+🔹 Laravel + React Admin Dashboard  
+🔹 API Integration Demo  
+
+## 📈 What You Can Expect
+- Clean & maintainable code
+- Scalable architecture
+- Clear communication
+- On-time delivery
+
+## 🤝 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/matiullahpro/
+- X (Twitter): https://x.com/matiullahpro
+- Fiverr: https://www.fiverr.com/matiullah_pro
+
+📩 Open to freelance & contract opportunities.
